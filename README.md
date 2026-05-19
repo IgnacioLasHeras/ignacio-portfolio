@@ -77,4 +77,4 @@ Emprendimiento propio de venta de fundas premium para iPhone, ecommerce y market
 
 📧 Email: lasherasnacho86@gmail.com 
 
-🌐 Portfolio: https://github.com/IgnacioLasHeras/ignacio-portfolio
+🌐 Portfolio: https://ignaciolasheras.github.io/ignacio-portfolio/
